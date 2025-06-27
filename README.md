@@ -100,7 +100,7 @@ Want to improve this wellness assistant?
 * Add features (e.g. history tracker, multilingual support, deep learning)
 * Submit a pull request 
 
-## 👩‍💻 Created With Purpose
+##  Created With Purpose
 
 Built by **Purnika & Pallika** to spread awareness, promote early detection, and empower every woman through tech.
 
