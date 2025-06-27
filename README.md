@@ -58,7 +58,7 @@ Simply run the notebook on Google Colab:
 
 Or use the **"Open in Colab"** button above 
 
----
+
 
 ##  How to Use
 
@@ -69,7 +69,6 @@ Or use the **"Open in Colab"** button above
 5. Explore personalized tips and health summary
 6. Use the cycle tracker for next period prediction
 
----
 
 ##  Sample Inputs
 
@@ -82,7 +81,6 @@ Or use the **"Open in Colab"** button above
 | Symptoms         | Checkboxes   |
 | Last Period Date | YYYY-MM-DD   |
 
----
 
 ##  Outputs Provided
 
@@ -94,8 +92,6 @@ Or use the **"Open in Colab"** button above
 * Motivational quote
 * Downloadable summary
 
----
-
 ##  Contributing
 
 Want to improve this wellness assistant?
@@ -104,19 +100,7 @@ Want to improve this wellness assistant?
 * Add features (e.g. history tracker, multilingual support, deep learning)
 * Submit a pull request 
 
----
-
 ## 👩‍💻 Created With Purpose
 
 Built by **Purnika & Pallika** to spread awareness, promote early detection, and empower every woman through tech.
-
----
-
-
-
-Let me know when you've uploaded your notebook to GitHub so I can replace the Colab badge link with your actual repo URL!
-
-```
-
-
 
